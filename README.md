@@ -4,9 +4,9 @@
 
 
 ## Instruções de como jogar:
-> -WASD para se movimentar
-> -C solta bomba
-> -você tem 3 vidas e seu objetivo é impedir que o meteoro atinja o solo
+> - WASD para se movimentar
+> - C solta bomba
+> - você tem 3 vidas e seu objetivo é impedir que o meteoro atinja o solo
 
 ## Instruções para iniciar o jogo:
 > - No primeiro passo é preciso ter o java jdk instalado em sua máquina para rodar o simulador mips mars, você pode encontrar no link: https://www.oracle.com/java/technologies/downloads/
